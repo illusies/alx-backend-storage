@@ -1,1 +1,15 @@
-# alx-backend-storage
+Repository Objectives
+
+This repository intends to demonstrate an understanding of the following concepts as it relates to advanced sql:
+
+--MySQL cheatsheet
+--MySQL Performance: How To Leverage MySQL Database Indexing
+--Stored Procedure
+--Triggers
+--Views
+--Functions and Operators
+--Trigger Syntax and Examples
+--CREATE TABLE Statement
+--CREATE PROCEDURE and CREATE FUNCTION Statements
+--CREATE INDEX Statement
+--CREATE VIEW Statement
