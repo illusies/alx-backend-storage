@@ -1,4 +1,4 @@
-roject Objectives
+Project Objectives
 
 This project intends to demonstrate an understanding of the following concepts:
 
